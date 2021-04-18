@@ -1,5 +1,4 @@
-# GOGO Travels 
+# GOGO Travels Server
 #It is a Travel Group Application.
-#Using Tools. HTML CSS REACT JS, REACT BOOTSTRAP, MONGODB DATABASE, NODE JS, EXPRESS JS. E    etc.
-#Responsive web site. 
+#MONGODB DATABASE, NODE JS, EXPRESS JS. E    etc.
 # complete-website-server-zamanrabeen671
